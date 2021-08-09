@@ -10,6 +10,6 @@
   "license": "MIT",
   "dependencies": {
     "chalk": "~1.0.0",
-    "jsonist": "~1.0.2"
+    "jsonist": "~2.1.0"
   }
 }
